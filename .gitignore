@@ -1,0 +1,17 @@
+# macOS system files
+.DS_Store
+
+# PyCharm project settings
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Pipenv
+Pipfile.lock
+
+# Virtual environments
+venv/
+.env/
+
